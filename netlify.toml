@@ -1,7 +1,0 @@
-[build]
-  publish="newproject2"
-
-[[redirects]]
-   from="/*"
-   to="src/App.js"
-   status=200
