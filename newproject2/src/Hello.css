@@ -1,0 +1,15 @@
+body{
+    background-color: #E2E2E2; 
+}
+.container {
+    width: 70px; 
+      height: 70px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 8px; 
+      font-family: Arial, sans-serif;
+      font-size: 20px; 
+      color: blueviolet;
+      
+}
